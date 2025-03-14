@@ -36,4 +36,4 @@ Contributors
 
 
 License
-This project is for educational purposes as part of the DEBI Scholarship
+This project is for educational purposes as part of the DEPI Scholarship
